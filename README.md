@@ -1,0 +1,2 @@
+# MORUD_PANEL_V12
+Official MORUD PANEL V12 for FreeFire
