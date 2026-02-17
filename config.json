@@ -1,6 +1,10 @@
 {
-  "title": "🌐 تم نقل التطبيق",
-  "message": "التطبيق انتقل إلى موقع جديد. اضغط للذهاب.",
-  "buttonText": "الذهاب إلى الموقع",
-  "updateUrl": "https://t.me/etsmrobyo2008moraud"
+  "title": "⚠️ MORUD PANEL",
+  "message": "مرحباً بك في التطبيق",
+  "buttonText": "الدخول",
+  "updateUrl": "https://t.me/etsmrobyo2008moraud",
+  "forceExit": false,
+  "maintenance": false,
+  "minVersion": 1,
+  "maxVersion": 100
 }
