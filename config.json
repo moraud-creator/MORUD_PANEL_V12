@@ -1,4 +1,10 @@
 {
-  "latest_version": 5,
-  "force_update": true
+  "forceExit": false,
+  "maintenance": false,
+  "minVersion": 999,
+  "maxVersion": 1000,
+  "title": "⚠️ Update Required",
+  "message": "Your version is expired. Please update to continue.",
+  "buttonText": "Update Now",
+  "updateUrl": "https://play.google.com/store/apps/details?id=YOUR_PACKAGE"
 }
