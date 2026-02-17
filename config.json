@@ -1,7 +1,7 @@
 {
   "forceExit": false,
   "maintenance": false,
-  "minVersion": 99999999999999999,
+  "minVersion": 9999,
   "maxVersion": 1000,
   "title": "⚠️ Update Required",
   "message": "Your version is expired. Please update to continue.",
