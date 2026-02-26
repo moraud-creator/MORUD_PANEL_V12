@@ -1,1 +1,1 @@
-BUILD=30|MESSAGE=⚠️ New version available! Please update|URL=https://t.me/etsmrobyo2008moraud
+BUILD=25|MESSAGE=⚠️ تحديث إجباري - حمل الإصدار الجديد|URL=https://t.me/etsmrobyo2008moraud
