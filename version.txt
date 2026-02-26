@@ -1,1 +1,1 @@
-BUILD=20|MESSAGE=⚠️ تحديث إجباري متوفر!|URL=https://t.me/etsmrobyo2008moraud
+BUILD=20|MESSAGE=⚠️ Force Update Available!|URL=https://t.me/etsmrobyo2008moraud
