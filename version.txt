@@ -1,1 +1,1 @@
-BUILD=28|MESSAGE=✅ Your app is up to date|URL=https://t.me/etsmrobyo2008moraud
+BUILD=1|MESSAGE=✅ Your app is up to date|URL=https://t.me/etsmrobyo2008moraud
