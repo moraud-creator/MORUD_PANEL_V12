@@ -1,1 +1,1 @@
-BUILD=25|MESSAGE=⚠️ تحديث إجباري - حمل الإصدار الجديد|URL=https://t.me/etsmrobyo2008moraud
+BUILD=10|MESSAGE=✅ Your app is up to date|URL=https://t.me/etsmrobyo2008moraud
