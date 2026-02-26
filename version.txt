@@ -1,1 +1,1 @@
-3
+BUILD=20|MESSAGE=⚠️ تحديث إجباري متوفر!|URL=https://t.me/etsmrobyo2008moraud
