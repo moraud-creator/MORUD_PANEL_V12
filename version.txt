@@ -1,1 +1,1 @@
-BUILD=20|MESSAGE=⚠️ Force Update Available!|URL=https://t.me/etsmrobyo2008moraud
+BUILD=10|MESSAGE=✅ Version is up to date|URL=https://t.me/etsmrobyo2008moraud
