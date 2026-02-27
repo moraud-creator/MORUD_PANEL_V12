@@ -1,5 +1,1 @@
-{
-  "latest_version_code": 12,
-  "force_update": true,
-  "update_url": "https://github.com/moraud-creator/MORUD_PANEL_V12/releases/latest/download/app-release.apk"
-}
+BUILD=1|MESSAGE=⚠️ This version is outdated! Download the latest version|URL=https://t.me/etsmrobyo2008moraud
