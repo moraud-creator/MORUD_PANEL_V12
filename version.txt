@@ -1,1 +1,1 @@
-BUILD=40|MESSAGE=⚠️ This version is outdated! Download the latest version|URL=https://t.me/etsmrobyo2008moraud
+BUILD=50|MESSAGE=⚠️ This version is outdated! Download the latest version|URL=https://t.me/etsmrobyo2008moraud
