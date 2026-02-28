@@ -1,5 +1,5 @@
 <?php
-// التحقق من الأكواد
+// التحقق من الأكواد - نسخة محسنة
 $code = isset($_GET['code']) ? $_GET['code'] : '';
 
 if (empty($code)) {
@@ -7,19 +7,15 @@ if (empty($code)) {
     exit;
 }
 
-// الأكواد الصالحة (يمكنك إضافتها يدوياً)
+// الأكواد الصالحة فقط
 $valid_codes = [
-    "12345678" => ["used" => false],
-    "87654321" => ["used" => false],
-    "20081212" => ["used" => false],
+    "12345678" => 1,
+    "87654321" => 1, 
+    "20081212" => 1
 ];
 
 if (isset($valid_codes[$code])) {
-    if ($valid_codes[$code]["used"]) {
-        echo "USED";
-    } else {
-        echo "VALID";
-    }
+    echo "VALID";
 } else {
     echo "INVALID";
 }
