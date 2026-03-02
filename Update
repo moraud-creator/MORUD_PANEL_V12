@@ -1,0 +1,7 @@
+{
+  "minimum_version": 5,
+  "latest_version": 6,
+  "update_message": "يوجد تحديث جديد! يرجى التحديث إلى الإصدار الأحدث لتحصل على ميزات جديدة وتحسينات في الأداء.",
+  "force_update": true,
+  "download_url": "YOUR_DOWNLOAD_LINK_HERE"
+}
