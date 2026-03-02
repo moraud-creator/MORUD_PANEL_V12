@@ -1,5 +1,5 @@
 {
-  "minimum_version": 5,
+  "minimum_version": 1,
   "latest_version": 6,
   "update_message": "يوجد تحديث جديد! يرجى التحديث إلى الإصدار الأحدث لتحصل على ميزات جديدة وتحسينات في الأداء.",
   "force_update": true,
