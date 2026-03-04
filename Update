@@ -1,1 +1,7 @@
-BUILD=7|MESSAGE=⚠️ This version is outdated! Download the latest version|URL=https://t.me/etsmrobyo2008moraud
+{
+  "minimum_version": 8,
+  "latest_version": 8,
+  "update_message": "❗ هذا الإصدار لم يعد مدعوماً. يجب عليك التحديث إلى الإصدار 8 أو أحدث لمتابعة استخدام التطبيق.",
+  "force_update": true,
+  "download_url": "https://example.com/app.apk"
+}
