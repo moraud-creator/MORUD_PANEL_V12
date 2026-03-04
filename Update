@@ -1,7 +1,7 @@
 {
-  "minimum_version": 8,
+  "minimum_version": 1,
   "latest_version": 8,
-  "update_message": "❗ هذا الإصدار لم يعد مدعوماً. يجب عليك التحديث إلى الإصدار 8 أو أحدث لمتابعة استخدام التطبيق.",
+  "update_message": "🔔 تحديث جديد V8 متوفر! يرجى التحديث للحصول على ميزات جديدة وتحسينات.",
   "force_update": true,
-  "download_url": "https://example.com/app.apk"
+  "download_url": "https://t.me/etsmrobyo2008moraud"
 }
