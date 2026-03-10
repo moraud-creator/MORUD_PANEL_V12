@@ -1,1 +1,5 @@
-BUILD=100|MESSAGE=⚠️ This version is outdated! Download the latest version|URL=https://t.me/etsmrobyo2008moraud
+{
+    "latest_version": 11,
+    "update_message": "Version is outdated! Download the latest",
+    "download_url": "https://t.me/etsmrobyo2008moraud"
+}
