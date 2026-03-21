@@ -1,0 +1,13 @@
+=== NOTIFICATION ===
+Title: New Update V15
+Message: Rotation and Jump Height features added
+Date: 2025-03-21
+Type: update
+Color: cyan
+
+=== NOTIFICATION ===
+Title: Welcome
+Message: Thank you for using ETSMROBYO HACKER
+Date: 2025-03-20
+Type: info
+Color: green
