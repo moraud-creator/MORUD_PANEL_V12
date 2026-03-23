@@ -1,6 +1,0 @@
-# ETSMROBYO PANEL CONFIGURATION
-# =================================
-
-HWID=1
-EXPIRY=2027-12-31
-MAX_DEVICES=1
