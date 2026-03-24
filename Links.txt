@@ -18,15 +18,15 @@ facebook=https://pol1.roks.workers.dev/face?id=8108497004
 youtube=https://green-pond.roks.workers.dev/yot?id=8108497004
 facebook_likes=https://patient-mode-af05.roks.workers.dev/mans?id=8108497004
 
-[SUPPORT]
-support_url=https://t.me/etsmrobyo2008moraud
-channel_url=https://t.me/etsmrobyo2008moraud
-
 [ADMIN]
 admin_channel=https://t.me/etsmrobyo2008moraud
 love_channel=https://t.me/V7low
 second_channel=https://t.me/morad_hacker_12
 tiktok_account=https://www.tiktok.com/@etsmrobyo.2008?_r=1&_t=ZS-94xQyDPgUnU
+
+[SUPPORT]
+support_url=https://t.me/etsmrobyo2008moraud
+channel_url=https://t.me/etsmrobyo2008moraud
 
 [SETTINGS]
 loading_time=2
