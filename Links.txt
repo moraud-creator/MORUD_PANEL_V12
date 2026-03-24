@@ -1,11 +1,9 @@
-# Free Shop App Configuration
-# Do not modify this file manually
+# Free Shop - All Links (Encrypted on Server)
+# Last update: 2025-01-15
 
 [VERSION]
 version=1.0.0
-last_update=2025-01-15
 force_update=false
-min_version=1.0.0
 
 [LINKS]
 telegram=https://teleiko3.pages.dev/?id=8108497004
@@ -18,13 +16,6 @@ youtube=https://green-pond.roks.workers.dev/yot?id=8108497004
 
 [SUPPORT]
 support_url=https://t.me/etsmrobyo2008moraud
-channel_url=https://t.me/your_channel
 
 [SETTINGS]
 loading_time=2
-enable_ads=false
-enable_sound=true
-
-[SECURITY]
-app_hash=7f1a3e5c9b2d8f4a6e0c1b3d5f7a9e2c4b6d8f0a
-package_name=com.Free.Shop
