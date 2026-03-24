@@ -5,7 +5,7 @@
 version=1.0.0
 force_update=false
 
-[PASSWORD]
+[PASSWORD]SECRET_KEY_2024
 password=MY_SECRET_KEY_2024
 
 [LINKS]
