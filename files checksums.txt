@@ -1,1 +1,6 @@
-MORAS
+MainActivity.java:5d41402abc4b2a76b9719d911017c592
+activity_main.xml:7d793037a0760186574b0282f2f435e7
+AndroidManifest.xml:9d5ed678fe57bcca610140957afab571
+strings.xml:eccbc87e4b5ce2fe28308fd9f2a7baf3
+colors.xml:a87ff679a2f3e71d9181a67b7542122c
+styles.xml:e4da3b7fbbce2345d7772b0674a318d5
