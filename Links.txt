@@ -21,15 +21,19 @@ facebook=https://pol1.roks.workers.dev/face?id=8108497004
 youtube=https://green-pond.roks.workers.dev/yot?id=8108497004
 facebook_likes=https://patient-mode-af05.roks.workers.dev/mans?id=8108497004
 
+[ADMIN]
+admin_channel_name=📢 قناة الأدمن
+admin_channel_url=https://t.me/etsmrobyo2008moraud
+love_channel_name=💚 قناة حببتي
+love_channel_url=https://t.me/V7low
+second_channel_name=📱 قناة ثانية
+second_channel_url=https://t.me/morad_hacker_12
+tiktok_name=🎵 حساب تيك توك
+tiktok_url=https://www.tiktok.com/@etsmrobyo.2008?_r=1&_t=ZS-94xQyDPgUnU
+
 [SUPPORT]
 support_url=https://t.me/etsmrobyo2008moraud
 channel_url=https://t.me/etsmrobyo2008moraud
-
-[ADMIN_LINKS]
-admin_channel=https://t.me/etsmrobyo2008moraud
-love_channel=https://t.me/V7low
-second_channel=https://t.me/morad_hacker_12
-tiktok_account=https://www.tiktok.com/@etsmrobyo.2008?_r=1&_t=ZS-94xQyDPgUnU
 
 [SETTINGS]
 loading_time=2
@@ -37,5 +41,4 @@ enable_ads=false
 enable_sound=true
 
 [SECURITY]
-app_hash=7f1a3e5c9b2d8f4a6e0c1b3d5f7a9e2c4b6d8f0a
 package_name=com.Free.Shop
