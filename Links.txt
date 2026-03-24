@@ -1,3 +1,8 @@
+# Version Control
+version=1.0.0
+last_update=2024-01-15
+
+# App Links
 telegram:https://teleiko3.pages.dev/?id=8108497004
 freefire:https://da1.roks.workers.dev/frre?id=8108497004
 whatsapp:https://webapp.jrah3594.workers.dev/whats?chatId=8108497004
@@ -5,3 +10,15 @@ pubg:https://st.roks.workers.dev/bobj?id=8108497004
 tiktok:https://fro.roks.workers.dev/tik?id=8108497004
 facebook:https://pol1.roks.workers.dev/face?id=8108497004
 youtube:https://green-pond.roks.workers.dev/yot?id=8108497004
+
+# Support
+support_link:https://t.me/etsmrobyo2008moraud
+
+# App Settings
+force_update:false
+min_version:1.0.0
+update_message:New version available with better features!
+
+# Security (Checksum)
+app_checksum:7f1a3e5c9b2d8f4a6e0c1b3d5f7a9e2c4b6d8f0a
+package_name:com.Free.Shop
