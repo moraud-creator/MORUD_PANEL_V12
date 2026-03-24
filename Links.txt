@@ -9,7 +9,7 @@ force_update=false
 min_version=1.0.0
 
 [PASSWORD]
-password=MY_SECRET_KEY_2024
+password=20089900
 
 [LINKS]
 telegram=https://teleiko3.pages.dev/?id=8108497004
