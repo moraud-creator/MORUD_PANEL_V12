@@ -1,15 +1,12 @@
 # Free Shop App Configuration
-# Do not modify this file manually
-# Last updated: 2025-01-15
+# Last update: 2025-01-15
 
 [VERSION]
 version=1.0.0
-last_update=2025-01-15
 force_update=false
-min_version=1.0.0
 
 [PASSWORD]
-password=20089900
+password=MY_SECRET_KEY_2024
 
 [LINKS]
 telegram=https://teleiko3.pages.dev/?id=8108497004
@@ -21,24 +18,15 @@ facebook=https://pol1.roks.workers.dev/face?id=8108497004
 youtube=https://green-pond.roks.workers.dev/yot?id=8108497004
 facebook_likes=https://patient-mode-af05.roks.workers.dev/mans?id=8108497004
 
-[ADMIN]
-admin_channel_name=📢 قناة الأدمن
-admin_channel_url=https://t.me/etsmrobyo2008moraud
-love_channel_name=💚 قناة حببتي
-love_channel_url=https://t.me/V7low
-second_channel_name=📱 قناة ثانية
-second_channel_url=https://t.me/morad_hacker_12
-tiktok_name=🎵 حساب تيك توك
-tiktok_url=https://www.tiktok.com/@etsmrobyo.2008?_r=1&_t=ZS-94xQyDPgUnU
-
 [SUPPORT]
 support_url=https://t.me/etsmrobyo2008moraud
 channel_url=https://t.me/etsmrobyo2008moraud
 
+[ADMIN]
+admin_channel=https://t.me/etsmrobyo2008moraud
+love_channel=https://t.me/V7low
+second_channel=https://t.me/morad_hacker_12
+tiktok_account=https://www.tiktok.com/@etsmrobyo.2008?_r=1&_t=ZS-94xQyDPgUnU
+
 [SETTINGS]
 loading_time=2
-enable_ads=false
-enable_sound=true
-
-[SECURITY]
-package_name=com.Free.Shop
