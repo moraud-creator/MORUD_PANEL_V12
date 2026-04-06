@@ -1,7 +1,3 @@
 {
-  "version": "2.0",
-  "buildNumber": 20,
-  "forceUpdate": true,
-  "updateUrl": "https://t.me/etsmrobyo2008moraud",
-  "message": "⚠️ تحديث إجباري متوفر!"
+  "expiry": false
 }
