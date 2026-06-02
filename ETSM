@@ -1,1 +1,7 @@
-
+{
+    "title": "تحديث جديد",
+    "message": "يرجى تحديث التطبيق",
+    "buttonText": "تحديث الآن",
+    "updateUrl": "https://play.google.com/store/apps/details?id=com.your.app",
+    "credit": "MR. NoOB"
+}
